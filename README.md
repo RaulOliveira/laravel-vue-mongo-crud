@@ -1,6 +1,8 @@
 # laravel-vue-mongo-crud
 CRUD simples de uma única entidade, simulando um controle de estoque de refrigerantes.
 
+![Home](public/images/home.png?raw=true "Home")
+
 ## Principais tecnologias
  - Framework PHP Laravel
  - Vue.js
